@@ -1,2 +1,3 @@
-# aula_javascript
+# aula_javascript :computer:
 Introdução ao JavaScript
+
